@@ -78,112 +78,111 @@ val me = Developer()
 ### 🏭 MES / 산업 시스템 (C# .NET WinForms)
 
 > 제조 실행 시스템 및 어드민 프로그램 전문 개발
->
-> <details>
-    <summary><b>📋 프로젝트 목록 펼치기</b></summary>
 
-    | 프로젝트 | 설명 |
-    |---------|------|
-    | `RE_UnifyMES` | Unify MES 리뉴얼 버전 |
-    | `UnifyMesWpf` | Unify MES WPF 버전 (Public) |
-    | `myMesWpf` ⭐ | MES 클라이언트 WPF (Public) |
-    | `VINAMatAdmin_2022` | 기도스포츠 자재시스템 VS2022 |
-    | `HyundaiAdmin` | 현대첨단소재 어드민 |
-    | `GMD_WMS` / `GMD_MNT1` / `GMD_MNT2` | 고문당 WMS & 모니터링 |
-    | `KFTAAdmin.NET` | KFTA 어드민 프로그램 |
-    | `GSAdmin.NET` | 금성실업 어드민 |
+<details>
+<summary><b>📋 프로젝트 목록 펼치기</b></summary>
 
-    </details>
+| 프로젝트 | 설명 |
+|---------|------|
+| `RE_UnifyMES` | Unify MES 리뉴얼 버전 |
+| `UnifyMesWpf` | Unify MES WPF 버전 (Public) |
+| `myMesWpf` ⭐ | MES 클라이언트 WPF (Public) |
+| `VINAMatAdmin_2022` | 기도스포츠 자재시스템 VS2022 |
+| `HyundaiAdmin` | 현대첨단소재 어드민 |
+| `GMD_WMS` / `GMD_MNT1` / `GMD_MNT2` | 고문당 WMS & 모니터링 |
+| `KFTAAdmin.NET` | KFTA 어드민 프로그램 |
+| `GSAdmin.NET` | 금성실업 어드민 |
 
-    ---
-
-    ### 📱 Android PDA Client (Kotlin)
-
-    > 산업 현장용 Android PDA 앱 전문 개발
-
-    <details>
-    <summary><b>📋 프로젝트 목록 펼치기</b></summary>
-
-    | 프로젝트 | 설명 |
-    |---------|------|
-    | `KFTAPDAClient` | KFTA PDA 프로그램 🔥 |
-    | `KidoPDAClient` | 기도 자재관리 PDA |
-    | `UnifyPDAClient` | 유니파이 PDA 클라이언트 |
-    | `GSSPDAClient` | 금성실업 PDA 클라이언트 |
-    | `HyundaiPDAClient` | 현대첨단소재 CW30 PDA |
-
-    </details>
-
-    ---
-
-    ### 🎮 Minecraft Plugins (Kotlin - Studio Semicolon)
-
-    > IntelliJ + Kotlin 기반 PaperMC 플러그인 개발
-
-    <details>
-    <summary><b>📋 프로젝트 목록 펼치기</b></summary>
-
-    | 프로젝트 | 설명 | 공개 |
-    |---------|------|------|
-    | [`PRCMission`](https://github.com/mireu9275/PRCMission) | semiMission plugin 1.21.4 | ✅ Public |
-    | [`PRCShop`](https://github.com/mireu9275/PRCShop) | PRC 서버 상점 플러그인 | ✅ Public |
-    | [`PRCMoney`](https://github.com/mireu9275/PRCMoney) | SemiMoneyGlobal 1.21.4 | ✅ Public |
-    | [`SemiMoney`](https://github.com/mireu9275/SemiMoney) | 돈 플러그인 (스타듀벨리 컨셉) | ✅ Public |
-    | [`SemiTerminal`](https://github.com/mireu9275/SemiTerminal) | 터미널 형식 상점 플러그인 | ✅ Public |
-    | [`SemiShop`](https://github.com/mireu9275/SemiShop) | 상점 플러그인 | ✅ Public |
-    | [`SemiLauncher`](https://github.com/mireu9275/SemiLauncher) | 세미콜론 서버 런처 (C#) | ✅ Public |
-    | [`EmeLibrary`](https://github.com/mireu9275/EmeLibrary) | 공용 Kotlin 라이브러리 | ✅ Public |
-    | [`Cutscene`](https://github.com/mireu9275/Cutscene) | 컷씬 플러그인 | ✅ Public |
-
-    </details>
-
-    ---
-
-    ## 📊 GitHub Stats
-
-    <div align="center">
-
-    <img height="180em" src="https://gh-stats.work/api?username=mireu9275&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-    &nbsp;
-    <img height="180em" src="https://gh-stats.work/api/top-langs/?username=mireu9275&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
-
-    </div>
-
-    <div align="center">
-
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mireu9275&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-
-    </div>
-
-    ---
-
-    ## 🏆 GitHub Trophies
-
-    <div align="center">
-
-    <img src="https://github-trophies.vercel.app/?username=mireu9275&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-    </div>
-
-    ---
-
-    ## 📈 Contribution Graph
-
-    <div align="center">
-
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mireu9275&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph"/>
-
-    </div>
-
-    ---
-
-    <div align="center">
-
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-    *"코드는 내가 세상에 남기는 흔적이다."*
-
-    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mireu9275.mireu9275&left_color=1f6feb&right_color=58a6ff)
-
-    </div>
 </details>
+
+---
+
+### 📱 Android PDA Client (Kotlin)
+
+> 산업 현장용 Android PDA 앱 전문 개발
+
+<details>
+<summary><b>📋 프로젝트 목록 펼치기</b></summary>
+
+| 프로젝트 | 설명 |
+|---------|------|
+| `KFTAPDAClient` | KFTA PDA 프로그램 🔥 |
+| `KidoPDAClient` | 기도 자재관리 PDA |
+| `UnifyPDAClient` | 유니파이 PDA 클라이언트 |
+| `GSSPDAClient` | 금성실업 PDA 클라이언트 |
+| `HyundaiPDAClient` | 현대첨단소재 CW30 PDA |
+
+</details>
+
+---
+
+### 🎮 Minecraft Plugins (Kotlin - Studio Semicolon)
+
+> IntelliJ + Kotlin 기반 PaperMC 플러그인 개발
+
+<details>
+<summary><b>📋 프로젝트 목록 펼치기</b></summary>
+
+| 프로젝트 | 설명 | 공개 |
+|---------|------|------|
+| [`PRCMission`](https://github.com/mireu9275/PRCMission) | semiMission plugin 1.21.4 | ✅ Public |
+| [`PRCShop`](https://github.com/mireu9275/PRCShop) | PRC 서버 상점 플러그인 | ✅ Public |
+| [`PRCMoney`](https://github.com/mireu9275/PRCMoney) | SemiMoneyGlobal 1.21.4 | ✅ Public |
+| [`SemiMoney`](https://github.com/mireu9275/SemiMoney) | 돈 플러그인 (스타듀벨리 컨셉) | ✅ Public |
+| [`SemiTerminal`](https://github.com/mireu9275/SemiTerminal) | 터미널 형식 상점 플러그인 | ✅ Public |
+| [`SemiShop`](https://github.com/mireu9275/SemiShop) | 상점 플러그인 | ✅ Public |
+| [`SemiLauncher`](https://github.com/mireu9275/SemiLauncher) | 세미콜론 서버 런처 (C#) | ✅ Public |
+| [`EmeLibrary`](https://github.com/mireu9275/EmeLibrary) | 공용 Kotlin 라이브러리 | ✅ Public |
+| [`Cutscene`](https://github.com/mireu9275/Cutscene) | 컷씬 플러그인 | ✅ Public |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mireu9275&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mireu9275&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mireu9275&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=mireu9275&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mireu9275&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+*"코드는 내가 세상에 남기는 흔적이다."*
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mireu9275.mireu9275&left_color=1f6feb&right_color=58a6ff)
+
+</div>
